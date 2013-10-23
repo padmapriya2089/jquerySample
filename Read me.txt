@@ -1,0 +1,13 @@
+
+*******Steps to be followed*********
+
+*create a jsp file in the eclipse.
+*Use the required jquery plugin script in the start of the jsp file or download the js file.
+*Use the postion and allignment details in the css file which will be included in the <head>.
+*Use the jquery functions inside the <script> tag.
+*use the html functions inside the body section.
+*run the project using the Tomcat server.
+*View the output in the web browser using the url.
+
+
+

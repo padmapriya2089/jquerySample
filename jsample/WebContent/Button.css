@@ -1,0 +1,5 @@
+@import('jquery-ui-themeroller.smoothness.css'); /*ThemeRoller CSS*/
+.ui-default-state { padding: .5em 1em; cursor: pointer; }
+#buttonBar { background-image: none; padding: 0; }
+#buttonBar li, #buttonBar li a { float: left; margin: 0; padding: 0; list-style: none; text-decoration: none; }
+#buttonBar li a  { padding: .5em 1em; border-width: 0; margin: 1px; text-decoration: none; display: block; }
